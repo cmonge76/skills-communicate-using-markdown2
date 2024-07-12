@@ -11,3 +11,4 @@ var myVar = "Hello, world!";
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 - [ ] One option more
+- [ ] Another option more
