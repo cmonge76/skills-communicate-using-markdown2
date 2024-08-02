@@ -7,8 +7,19 @@
 var myVar = "Hello, world!";
 ```
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
-- [ ] One option more
+- [ ] __Turn on GitHub Pages__
+- [ ] *Outline my portfolio*
+- [ ] Introduce myself to the <sub>world</sub>
+- [ ] `One option more`
 - [ ] Another option more
+
+```
+Text with quoting 
+```
+Text with color `#0969DA`
+
+Here is a simple footnote[^1].
+
+
+
+[^1]: My reference.
